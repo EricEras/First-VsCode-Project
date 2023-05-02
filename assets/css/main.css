@@ -2,6 +2,7 @@ ol {
     background-color: rgb(83, 222, 247);
     border-style: dashed;
     border-width: 5px;
+
 }
 
 .navbar-brand {
@@ -9,6 +10,7 @@ ol {
 }
 
 li {
+    font-family: Lucida Grande;
     font-size:large;
     color: whitesmoke;
 }
@@ -16,14 +18,21 @@ li {
 div {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
+    
 }
 
 .paragraph {
     font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
 
 main {
-    background-color: rgb(185, 240, 252);
+    background-color: rgb(191, 254, 233);
+    display:inline-block; 
+    margin: 10px
 
-    
+}
+
+.image {
+    align-items: center;
 }
